@@ -22,3 +22,6 @@ Other file in unix format (_out)
 234567653  
 123454326  
 232343455  
+
+Run:  
+Python Zline.py inputfile  
