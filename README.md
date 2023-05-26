@@ -9,7 +9,7 @@ Input file (DOS format)
 123454326  
 232343455  
   
-Output file (DOS format) (same file on the fly)
+Output file (DOS format) (same file on the fly)  
 123456781  
 123456789  
 234567653  
